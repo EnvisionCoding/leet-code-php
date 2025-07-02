@@ -1,0 +1,1 @@
+Placeholder for project setup to make sure directory src/ is commit to VCS.
