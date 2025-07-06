@@ -6,7 +6,7 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * To run tests execute PHPUnit via command:
- *      vendor/bin/phpunit tests/RomanToInt.php
+ *      vendor/bin/phpunit tests/RomanToIntTest.php
  */
 class RomanToIntTest extends TestCase {
 
