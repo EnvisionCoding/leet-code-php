@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
  * To run tests execute PHPUnit via command:
  *      vendor/bin/phpunit tests/LongestCommonPrefixTest.php
  */
-class longestCommonPrefixTest extends TestCase
+class LongestCommonPrefixTest extends TestCase
 {
     #[DataProvider('inputProvider')]
     public function testLongestCommonPrefix(string $firstWord, string $secondWord, string $thirdWord, string $expected): void {
